@@ -1,0 +1,32 @@
+1. Why were let and const introduced when var already existed?
+
+var is function scope
+let is block scope
+const is block scope
+
+
+2. How does JavaScript decide the data type at runtime?
+
+JavaScript is dynamically typed.
+The type is decided by the value assigned.
+
+
+3. Difference between == and ===, and why === is preferred?
+
+== this value only
+=== this for value + type 
+
+
+4. How do logical operators (&&, ||) clean up conditions?
+
+They reduce extra if-else code
+
+Help write short and readable conditions
+
+
+6. Why does do-while run at least once?
+
+The condition is check after execution the code
+
+So it runs once if the condition is false
+
