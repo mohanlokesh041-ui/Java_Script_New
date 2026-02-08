@@ -1,0 +1,19 @@
+1. React is a JavaScript library used to build user interfaces, mainly for single-page applications.
+React focuses only on the UI layer
+
+2. Real DOM 
+Directly updates the browser DOM
+Slower updates
+Virtual DOM
+A lightweight copy of the Real DOM
+Lives in memory
+
+3. Functional Components
+* Written as JavaScript functions
+* Use Hooks for state and lifecycle
+Class Components
+* Written using ES6 classes
+* Use lifecycle methods
+
+
+
